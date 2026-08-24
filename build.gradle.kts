@@ -19,7 +19,7 @@ dependencies {
 }
 
 application {
-    mainClass = "dev.xDaoud.miniredis.EchoServer"
+    mainClass = "dev.xDaoud.miniredis.Main"
 }
 
 tasks.test {
